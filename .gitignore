@@ -23,3 +23,6 @@ ios/Flutter/flutter_export_environment.sh
 *.db
 *.db-shm
 *.db-wal
+.aider*
+.env*
+liftlog-*.json
